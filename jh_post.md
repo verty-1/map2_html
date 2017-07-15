@@ -1,0 +1,9 @@
+# HTML Interactive Map Graphic
+
+
+
+
+## Click on Location Icons
+
+<!--html_preserve--><div id="htmlwidget-4a8eef806f3b162f6e01" style="width:672px;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-4a8eef806f3b162f6e01">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"maxNativeZoom":null,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"continuousWorld":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":null,"unloadInvisibleTiles":null,"updateWhenIdle":null,"detectRetina":false,"reuseTiles":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[[39.2973166,39.3288851,39.2906617,39.2970681,39.2824806],[-76.5929798,-76.6206598,-76.5469683,-76.6150537,-76.6016766],{"iconUrl":{"data":"http://brand.jhu.edu/content/uploads/2014/06/university.shield.small_.blue_.png","index":0},"iconWidth":28.9782608695652,"iconHeight":31,"iconAnchorX":14.4891304347826,"iconAnchorY":16},null,null,{"clickable":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},["<a href='http://www.jhsph.edu/'>East Baltimore Campus<\/a>","<a href='https://apply.jhu.edu/visit/homewood/'>Homewood Campus<\/a>","<a href='http://www.hopkinsmedicine.org/johns_hopkins_bayview/'>Bayview Medical Center<\/a>","<a href='http://www.peabody.jhu.edu/'>Peabody Institute<\/a>","<a href='http://carey.jhu.edu/'>Carey Business School<\/a>"],null,null,null,null,null,null]}],"limits":{"lat":[39.2824806,39.3288851],"lng":[-76.6206598,-76.5469683]}},"evals":[],"jsHooks":[]}</script><!--/html_preserve-->
